@@ -80,14 +80,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Acunetix Domain Security](https://apis.io/security/acunetix/acunetix-domain-security/)
-- [Acunetix Vulnerability Disclosure](https://apis.io/security/acunetix/acunetix-vulnerability-disclosure/)
+- [Invicti (formerly Acunetix) Domain Security](https://apis.io/security/acunetix/acunetix-domain-security/)
+- [Invicti (formerly Acunetix) Vulnerability Disclosure](https://apis.io/security/acunetix/acunetix-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Acunetix Plans Pricing](https://apis.io/plans/acunetix/acunetix-plans-pricing/)
+- [Invicti (formerly Acunetix) Plans Pricing](https://apis.io/plans/acunetix/acunetix-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,18 +106,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 30.3** — thin · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 31.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 60.7 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 26.3 |
+| Contract governance | 18.2 |
+| Operational transparency | 23.8 |
 | Developer ergonomics | 28.6 |
-| Access clarity | 63.7 |
+| Access clarity | 63.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -142,6 +142,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
 
